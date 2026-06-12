@@ -1,2 +1,1 @@
-# Used-Car-Price-Prediction-Using-Regression-Models
-Summer Internship 2026 - IDEAS ISI Kolkata
+https://colab.research.google.com/drive/14lOhRC-jNEFZdX55XgZ7znA8SzlZRnkB?usp=sharing#scrollTo=d503846d
